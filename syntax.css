@@ -23,6 +23,7 @@ nav a {
   color: white;
   margin-right: 20px;
   text-decoration: none;
+  font-family: "montse";
 }
 nav h3 {
   font-size: 20px;
@@ -57,12 +58,14 @@ nav .links {
 .banner h1 {
   padding-bottom: 10px;
   font-size: 60px;
+  font-family: "montse";
 }
 
 h2 {
   font-size: 24px;
   text-align: center;
   padding-top: 15px;
+  font-family: "montse";
 }
 
 img {
@@ -101,9 +104,11 @@ img {
   text-align: center;
   text-decoration: none;
   margin-bottom: 20px;
+  font-family: "montse";
 }
 #About p {
   font-size: 18px;
+  font-family: "montse";
   color: white;
   line-height: 30px;
   width: 350px;
@@ -133,6 +138,7 @@ form {
 }
 form a {
   font-size: 18px;
+  font-family: "montse";
   background-color: #1bbc96;
   width: 80px;
   height: 20px;
@@ -149,17 +155,20 @@ form textarea {
   width: 800px;
   height: 25vh;
   margin-bottom: 15px;
+  font-family: "montse";
 }
 form input {
   border: none;
   border-bottom: 1px solid rgba(207, 199, 199, 0.377);
   width: 800px;
   margin-bottom: 20px;
+  font-family: "montse";
 }
 
 h4 {
   color: white;
   padding-bottom: 10px;
+  font-family: "montse";
 }
 
 .foot {
@@ -198,6 +207,7 @@ h4 {
 }
 .foot .col-md-4 p {
   font-size: 18px;
+  font-family: "montse";
   color: white;
   line-height: 30px;
   width: 300px;
@@ -205,9 +215,11 @@ h4 {
 }
 .foot .h33 {
   padding-top: 30px;
+  font-family: "montse";
 }
 .foot .h55 {
   padding-top: 50px;
+  font-family: "montse";
 }
 .foot span {
   color: #1bbc96;
@@ -223,6 +235,7 @@ h4 {
   color: white;
   margin-top: 20px;
   font-size: 18px;
+  font-family: "montse";
 }
 
 .icons {
