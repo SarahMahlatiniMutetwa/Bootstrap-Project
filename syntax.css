@@ -4,6 +4,10 @@
   text-decoration: none;
 }
 
+@font-face {
+  font-family: "montse";
+  src: url(Montserrat-Regular.ttf);
+}
 nav {
   height: 10vh;
   background-color: #2d3e50;
@@ -22,6 +26,7 @@ nav a {
 }
 nav h3 {
   font-size: 20px;
+  font-family: "montse";
 }
 nav .myhambmenu {
   display: none;
@@ -344,6 +349,9 @@ h4 {
     font-size: 14px;
     width: 300px;
   }
+  #About .row {
+    margin-right: 0;
+  }
   form {
     margin-bottom: 80px;
     margin-left: 20px;
@@ -393,6 +401,7 @@ h4 {
   }
   .foot h4 {
     font-size: 18px;
+    margin-bottom: 0;
   }
   .end p {
     margin-left: 0px;
