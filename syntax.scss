@@ -11,7 +11,16 @@
 //variable
 $Pfontcolor: white;
 
+.mynav.scrolled{
+    background-color: rgb(20, 94, 69);
+}
 
+.mynav{
+    position: sticky;
+    top: 0;
+    transition: background-color 0.3s ease-in-out;
+    z-index: 1;
+}
 nav{
     height: 10vh;
     background-color: #2d3e50;
@@ -22,13 +31,14 @@ nav{
     align-items: center;
     gap: 190px;
     color: white;
+   
     
-
     a{
         color: white;
         margin-right: 20px;
         text-decoration: none;
         font-family: "montse";
+        transition: color 0.3s ease-in-out;
     }
 
     h3{
